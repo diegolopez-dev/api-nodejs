@@ -29,8 +29,3 @@ Una vez instaladas las dependencias y configurada la conexión a la base de dato
 2. Crea una rama con la funcionalidad que deseas añadir.
 3. Realiza los cambios y haz commit de tus modificaciones.
 4. Crea un pull request describiendo detalladamente los cambios realizados.
-
-<div align="center">
-    <p>¡Gracias por utilizar esta API para gestionar ejercicios y tareas de un gimnasio!</p>
-    <p>Esperamos que sea de utilidad para tu proyecto.</p>
-</div>
