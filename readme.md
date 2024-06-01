@@ -13,5 +13,5 @@ Este proyecto consiste en una API construida con Node.js que permite gestionar e
 
 ## Uso
 
-Una vez instaladas las dependencias y configurada la conexión a la base de datos, puedes iniciar la API utilizando el comando `npm start`. La API estará disponible en `http://localhost:3000`.
+Una vez instaladas las dependencias y configurada la conexión a la base de datos, puedes iniciar la API utilizando el comando `npm dev`. La API estará disponible en `http://localhost:3000`.
 
